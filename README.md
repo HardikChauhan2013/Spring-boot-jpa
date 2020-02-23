@@ -1,4 +1,4 @@
-Step 1 : 
+# Step 1 : 
 
 package com.example.demo;
 
@@ -42,7 +42,7 @@ public class Category {
 	
 }
 
-Step 2 : 
+# Step 2 : 
 
 package com.example.demo;
 
@@ -56,7 +56,7 @@ public interface CategoryRepository
 
 }
 
-Step 3 :
+# Step 3 :
 package com.example.demo;
 
 import java.util.List;
